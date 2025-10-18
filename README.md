@@ -20,8 +20,8 @@ It helps manage **aid requests, donations, resource distribution, and reports** 
 
 ## 👥 Team
 - **Nithianandan Yathursan** – Project Lead / Backend Developer  
-- **[Mukunthan Thushan]** – Frontend & UI Developer  
-- **[Malsha Nethmini]** – Documentation & Testing  
+- **Mukunthan Thushan** – Frontend & UI Developer  
+- **Malsha Nethmini** – Documentation & Testing  
 
 > *Connecting Help with Hope — AidBridge bridges donors and victims for faster relief.*
 
